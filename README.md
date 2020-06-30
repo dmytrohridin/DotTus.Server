@@ -1,2 +1,2 @@
 # DotTus.Server
-.NET implementation for ASP.NET Core applications of https://tus.io/ protocol
+Implementation of https://tus.io/ protocol for ASP.NET Core Server applications
